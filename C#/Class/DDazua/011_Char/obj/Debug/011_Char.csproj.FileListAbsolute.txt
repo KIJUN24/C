@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\bin\Debug\011_Char.exe.config
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\bin\Debug\011_Char.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\bin\Debug\011_Char.pdb
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\obj\Debug\011_Char.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\obj\Debug\011_Char.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\obj\Debug\011_Char.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\011_Char\obj\Debug\011_Char.pdb

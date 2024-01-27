@@ -1,0 +1,7 @@
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\bin\Debug\003.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\bin\Debug\003.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\bin\Debug\003.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\obj\Debug\003_Mission.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\obj\Debug\003_Mission.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\obj\Debug\003.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\003\003\obj\Debug\003.pdb

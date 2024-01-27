@@ -1,0 +1,7 @@
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\bin\Debug\002_Variable.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\bin\Debug\002_Variable.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\bin\Debug\002_Variable.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\obj\Debug\002_Variable.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\obj\Debug\002_Variable.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\obj\Debug\002_Variable.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\002_Variable\obj\Debug\002_Variable.pdb

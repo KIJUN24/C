@@ -1,0 +1,14 @@
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\bin\Debug\001_HelloWorld.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\001_HelloWorld\obj\Debug\001_HelloWorld.pdb

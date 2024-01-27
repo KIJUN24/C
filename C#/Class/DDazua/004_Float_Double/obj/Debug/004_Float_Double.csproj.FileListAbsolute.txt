@@ -1,0 +1,7 @@
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\bin\Debug\004_Float_Double.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\bin\Debug\004_Float_Double.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\bin\Debug\004_Float_Double.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\obj\Debug\004_Float_Double.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\obj\Debug\004_Float_Double.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\obj\Debug\004_Float_Double.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\004_Float_Double\obj\Debug\004_Float_Double.pdb

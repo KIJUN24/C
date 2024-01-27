@@ -1,0 +1,7 @@
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\bin\Debug\009_Var.exe.config
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\bin\Debug\009_Var.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\bin\Debug\009_Var.pdb
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\obj\Debug\009_Var.csproj.AssemblyReference.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\obj\Debug\009_Var.csproj.CoreCompileInputs.cache
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\obj\Debug\009_Var.exe
+D:\Programing\C_Workspace\C#\Class\DDazua\009_Var\obj\Debug\009_Var.pdb

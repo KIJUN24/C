@@ -1,0 +1,7 @@
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\bin\Debug\002_Misson.exe.config
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\bin\Debug\002_Misson.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\bin\Debug\002_Misson.pdb
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\obj\Debug\002_Misson.csproj.AssemblyReference.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\obj\Debug\002_Misson.csproj.CoreCompileInputs.cache
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\obj\Debug\002_Misson.exe
+C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Homework\002_Misson\002_Misson\obj\Debug\002_Misson.pdb
