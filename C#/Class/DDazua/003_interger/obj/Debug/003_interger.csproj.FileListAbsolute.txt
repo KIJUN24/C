@@ -1,7 +1,0 @@
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\bin\Debug\003_interger.exe.config
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\bin\Debug\003_interger.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\bin\Debug\003_interger.pdb
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\obj\Debug\003_interger.csproj.AssemblyReference.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\obj\Debug\003_interger.csproj.CoreCompileInputs.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\obj\Debug\003_interger.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\003_interger\obj\Debug\003_interger.pdb

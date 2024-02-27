@@ -1,7 +1,0 @@
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\bin\Debug\005_decimal.exe.config
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\bin\Debug\005_decimal.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\bin\Debug\005_decimal.pdb
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\obj\Debug\005_decimal.csproj.AssemblyReference.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\obj\Debug\005_decimal.csproj.CoreCompileInputs.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\obj\Debug\005_decimal.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\005_decimal\obj\Debug\005_decimal.pdb

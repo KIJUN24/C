@@ -1,7 +1,0 @@
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\bin\Debug\006_bool.exe.config
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\bin\Debug\006_bool.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\bin\Debug\006_bool.pdb
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\obj\Debug\006_bool.csproj.AssemblyReference.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\obj\Debug\006_bool.csproj.CoreCompileInputs.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\obj\Debug\006_bool.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\006_bool\obj\Debug\006_bool.pdb

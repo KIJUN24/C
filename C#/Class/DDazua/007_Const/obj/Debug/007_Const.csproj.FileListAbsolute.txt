@@ -1,7 +1,0 @@
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\bin\Debug\007_Const.exe.config
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\bin\Debug\007_Const.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\bin\Debug\007_Const.pdb
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\obj\Debug\007_Const.csproj.AssemblyReference.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\obj\Debug\007_Const.csproj.CoreCompileInputs.cache
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\obj\Debug\007_Const.exe
-C:\Users\lkjun\OneDrive\바탕 화면\Programing_Workspace\C_Workspace\C#\Class\DDazua\007_Const\obj\Debug\007_Const.pdb
